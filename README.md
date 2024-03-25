@@ -1,7 +1,7 @@
 # Dynamic-Binding-Games
 2-3 Tree - Dynamic Binding
 <pre>
-/** What Is In This Assignment?
+/**
     Dynamic Binding
     three derived classes
     exception handling
